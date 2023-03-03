@@ -1,17 +1,26 @@
-# Nome do meu projeto
+# Portfólio
 
-Rápida descrição do objetivo de fazer esse projeto
+Oi, seja bem vindo(a) ao meu projeto **Portifólio**
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Portfólio**
+| :label: Tecnologias | HTML, CSS, Flex-box
+| :rocket: URL         | https://portfolio-eight-alpha-62.vercel.app/index.html
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![image](https://user-images.githubusercontent.com/122125357/219368979-c3fc6a3d-c09b-44c2-a335-b6b7a8dfd2cc.png#vitrinedev)
 
-## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+## 💻 Como abrir o projeto?
+
+Basta abrir o arquivo index.html em um navegador que assim você poderá acessar meu projeto.
+
+## 🔧 Feito por:
+
+Estevam Rainer.
+
+## 📢 Redes Sociais:
+
+LinkedIn: https://www.linkedin.com/in/estevam-lopes-258226261/
+
+Instagram: https://www.instagram.com/estevam_rainer/
